@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thanhdangdeveloper
-- 👀 I’m interested in Reactjs
-- 🌱 I’m currently learning Font-end 
+- 👀 I’m interested in Reactjs,Angularjs,Vuejs
+- 🌱 I’m currently learning Font-end ,PHP,MongoDB,..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
